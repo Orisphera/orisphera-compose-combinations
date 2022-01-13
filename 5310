@@ -1,11 +1,4 @@
-# ~/.XCompose
-
-
-
-### Based on the en_US.UTF locale. ###
-include "/usr/share/X11/locale/en_US.UTF-8/Compose"
-
-
+# https://gist.github.com/5310/9b98f8591f404b21d8c7e52739961070 with some modifications in the beginning
 
 ### Populated with Kragen's additions. ###
 # https://github.com/kragen/xcompose/blob/master/dotXCompose
