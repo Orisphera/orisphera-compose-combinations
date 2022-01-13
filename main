@@ -1,2 +1,2 @@
-import "%L"
-import "./5310"
+include "%L"
+include "./5310"
